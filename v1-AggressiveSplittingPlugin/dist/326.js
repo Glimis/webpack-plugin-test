@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[326],{326:()=>{console.log("b")}}]);
