@@ -5,6 +5,7 @@ webpack 精简工程
 只保存plugin的设置入口，用于测试plugin
 
 
+
 1. npm i webpack webpack-cli
 2. cp种子工程
 3. 填写webpack.config.js
